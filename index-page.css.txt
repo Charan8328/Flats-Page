@@ -1,0 +1,117 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.home-bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.home-bottom-card {
+    background-color: white;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    text-align: center;
+    font-family: Bree Serif;
+}
+
+.home-card-heading {
+    color: #f19116;
+    margin-top: 25px;
+}
+
+.home-card-discription {
+    color: #7b8794;
+}
+
+.home-card-button {
+    background-color: #f19116;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.flats-bg-container {
+    background-color: #222222;
+    height: 100vh;
+    font-family: Bree Serif;
+    background-size: cover;
+}
+
+.flats-bg-container-heading {
+    color: #f19116;
+    padding-top: 10px;
+    padding-left: 10px;
+    font-size: 35px;
+}
+
+.box-card {
+    background-color: white;
+    border-radius: 15px;
+    margin: 20px;
+}
+
+.img-style {
+    border-radius: 10px;
+}
+
+.flat-card-content {
+    margin-left: 20px;
+}
+
+.flat-card-content-heading {
+    font-weight: bold;
+    color: #0f0e46;
+    font-size: 40px;
+}
+
+.flat-card-content-description {
+    color: #6c6b70;
+    font-size: 15px;
+}
+
+.price-tag {
+    color: #f19116;
+    padding: 10px;
+    margin-left: 10px;
+    font-size: 30px;
+}
+
+.adress-tag {
+    color: white;
+    margin-left: 10px;
+    padding-top: 5px;
+}
+
+.adress-container {
+    padding-left: 12px;
+}
+
+.line {
+    background-color: #ffffff;
+
+    margin: 30px;
+}
+
+.details-discription {
+    color: #f19116;
+    padding-left: 20px;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+.dec-content {
+    color: white;
+    margin-left: 25px;
+}
+
+.button {
+    background-color: #f19116;
+    color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.button1 {
+    background-color: #f19116;
+    color: white;
+    margin: 20px;
+}
